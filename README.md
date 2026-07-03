@@ -37,7 +37,7 @@ I'm Luiz Henrique Érnica.
 - Oracle
 - PostgreSQL
 - Redis
-- Casandra
+- Cassandra
 - MongoDB
 
 ### Cloud
